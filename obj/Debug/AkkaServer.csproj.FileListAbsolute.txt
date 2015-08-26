@@ -1,0 +1,10 @@
+c:\users\schaitanya.gt\documents\visual studio 2012\Projects\AkkaServer\AkkaServer\bin\Debug\AkkaServer.exe.config
+c:\users\schaitanya.gt\documents\visual studio 2012\Projects\AkkaServer\AkkaServer\obj\Debug\AkkaServer.csprojResolveAssemblyReference.cache
+C:\Users\schaitanya.GT\Documents\Visual Studio 2012\Projects\AkkaServer\AkkaServer\bin\Debug\AkkaServer.exe
+C:\Users\schaitanya.GT\Documents\Visual Studio 2012\Projects\AkkaServer\AkkaServer\bin\Debug\AkkaServer.pdb
+C:\Users\schaitanya.GT\Documents\Visual Studio 2012\Projects\AkkaServer\AkkaServer\bin\Debug\Akka.dll
+C:\Users\schaitanya.GT\Documents\Visual Studio 2012\Projects\AkkaServer\AkkaServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\schaitanya.GT\Documents\Visual Studio 2012\Projects\AkkaServer\AkkaServer\bin\Debug\Akka.xml
+C:\Users\schaitanya.GT\Documents\Visual Studio 2012\Projects\AkkaServer\AkkaServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\schaitanya.GT\Documents\Visual Studio 2012\Projects\AkkaServer\AkkaServer\obj\Debug\AkkaServer.exe
+C:\Users\schaitanya.GT\Documents\Visual Studio 2012\Projects\AkkaServer\AkkaServer\obj\Debug\AkkaServer.pdb
